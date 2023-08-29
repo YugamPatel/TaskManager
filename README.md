@@ -1,4 +1,6 @@
-# 📝 To-Do List App: The App You Never Knew You Needed Until Now! 😂
+# 📝 To-Do List App: The App You Never Knew You Needed Until Now! 😂 <br><br>
+
+<img src="https://github.com/YugamPatel/TaskManager/blob/main/task-manager.png"><img><br><br>
 
 ## Why To-Do List? 🤔
 
