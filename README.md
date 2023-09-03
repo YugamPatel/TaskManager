@@ -3,7 +3,7 @@
 <img src="https://github.com/YugamPatel/TaskManager/blob/main/task-manager.png"><img><br><br>
 
 # Live at : 
-## https://taskmanagermadebyugamp.on.drv.tw/www.yugamstaskmanager.com/ <br><br>
+## https://yugamspersonalprojects.on.drv.tw/www.yugamstaskmanager.com/ <br><br>
 
 ## Why To-Do List? 🤔
 
